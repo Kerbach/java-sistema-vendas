@@ -1,5 +1,4 @@
 <h1>Sistemas de Vendas</h1>
-<p>Autor: Walter<br></p>
 
 <p>Ferramentas utilizadas:
   <ul>
